@@ -1,0 +1,15 @@
+D:\vStudio\Cars\Cars\bin\Debug\net6.0\Cars.exe
+D:\vStudio\Cars\Cars\bin\Debug\net6.0\Cars.deps.json
+D:\vStudio\Cars\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+D:\vStudio\Cars\Cars\bin\Debug\net6.0\Cars.dll
+D:\vStudio\Cars\Cars\bin\Debug\net6.0\Cars.pdb
+D:\vStudio\Cars\Cars\obj\Debug\net6.0\Cars.csproj.AssemblyReference.cache
+D:\vStudio\Cars\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\vStudio\Cars\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+D:\vStudio\Cars\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+D:\vStudio\Cars\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+D:\vStudio\Cars\Cars\obj\Debug\net6.0\Cars.dll
+D:\vStudio\Cars\Cars\obj\Debug\net6.0\refint\Cars.dll
+D:\vStudio\Cars\Cars\obj\Debug\net6.0\Cars.pdb
+D:\vStudio\Cars\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+D:\vStudio\Cars\Cars\obj\Debug\net6.0\ref\Cars.dll
